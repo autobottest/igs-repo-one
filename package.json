@@ -1,0 +1,11 @@
+{
+  "name": "igs-repo-one",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Isotopes-GitHub-Security/igs-repo-one.git",
+  "author": "Matthew Jordan <mjordan@atlassian.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@fastify/passport": "2.0.0"
+  }
+}
