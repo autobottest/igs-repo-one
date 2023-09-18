@@ -1,0 +1,1 @@
+export const ANOTHER_FAKE_TOKEN = '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';
