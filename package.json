@@ -6,6 +6,6 @@
   "author": "Matthew Jordan <mjordan@atlassian.com>",
   "license": "MIT",
   "dependencies": {
-    "@fastify/passport": "2.0.0"
+    "@fastify/passport": "2.3.0"
   }
 }
