@@ -1,3 +1,7 @@
+function logComment(comment) {
+    console.log("Comment found: " + comment);
+}
+
 function setLanguageOptions() {
     var href = document.location.href,
         deflt = href.substring(href.indexOf("default=")+8);
