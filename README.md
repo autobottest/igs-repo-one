@@ -2,7 +2,7 @@
 
 **This is a straight copy from https://github.com/stephanj/BM25**
 
-BM25 (Best Matching 25) is a rankin function used by search engines to rank matching documents according to their relevance to a given search query.
+BM25 (Best Matching 25) is a rankin function used by search engies to rank matching documents according to their relevnce to a given search query.
 
 
 Stemming maps different forms of the same word to a common "stem". 
