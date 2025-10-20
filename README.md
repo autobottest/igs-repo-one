@@ -2,6 +2,10 @@
 
 **This is a straight copy from https://github.com/stephanj/BM25**
 
+## A Quick Joke 😄
+Why did the search algorithm break up with its database?
+Because it couldn't find a match with good relevance scores! 🔍
+
 BM25 (Best Matching 25) is a rankin function used by search engines to rank matching documents according to their relevance to a given search query.
 
 
